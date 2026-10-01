@@ -13,7 +13,9 @@ Description: Functions for simulating SNP effects on phenotypes. Functions
     Simulations to quickly obtain estimates of effect sizes for simulated
     genotype-phenotypes.
 License: MIT + file LICENSE
-URL: https://explodecomputer.github.io/simulateGP/
+URL: https://explodecomputer.github.io/simulateGP/,
+    https://github.com/explodecomputer/simulateGP,
+    https://mrcieu.r-universe.dev/simulateGP
 BugReports: https://github.com/explodecomputer/simulateGP/issues
 Depends:
     R (>= 4.0.0)
